@@ -1,6 +1,5 @@
 --Table & index sizes along which indexes are being scanned and how many tuples are fetched. See Disk Usage for another view that includes both table and index sizes.
 
-
 SELECT
     t.schemaname,
     t.tablename,
